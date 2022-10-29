@@ -20,11 +20,13 @@ button{
 
 .top_heading{
 	margin-block: 25px;
+    font-size: 4rem;
 }
 
 .choose{
 	margin-block: 15px;
-	font-size: 1.25rem;
+	font-size: 2rem;
+    color: #7C272E;
 }
 
 .choice_container{
