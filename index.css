@@ -63,17 +63,40 @@ button{
 	transform: translateY(4px);
 }
 
+.results{
+    visibility: hidden;
+}
+
 .next-round{
     display: block;
     margin: 0 auto;
 }
 
-.hidden{
-    visibility: hidden;
-}
-
 .red{
     color: red;
 }
+
+.hidden{
+    display: block;
+    visibility: hidden;
+}
+
+.next-round{
+        display: block;
+    margin: 0 auto;
+    border: 2px solid #7C272E;
+    color: #7C272E;
+    font-size: 1.25rem;
+    padding: 7px 20px;
+    border-radius: 7px;
+    margin-block: 25px;
+    pointer: cursor;
+}
+
+
+
+
+
+
 
 

@@ -78,13 +78,14 @@ startBtn.addEventListener("click", function(){
 	console.log(computerSelection)
 	playRound(playerSelection, computerSelection);
 	choose.classList.add("hidden");
+	resultsDisplay.classList.remove("hidden");
 });
 
 next.addEventListener("click", () => {
 	choose.classList.remove("hidden");	
     playerSelection = " ";
-    resultsDisplay.innerHTML = "";
-    computerSelection = "";
+    computerSelection = ""
+  	resultsDisplay.classList.add("hidden");
 })
 
 
