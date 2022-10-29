@@ -24,9 +24,10 @@ button{
 }
 
 .choose{
-	margin-block: 15px;
+	margin-block: 14px;
 	font-size: 2rem;
     color: #7C272E;
+
 }
 
 .choice_container{
