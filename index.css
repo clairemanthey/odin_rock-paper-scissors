@@ -1,0 +1,79 @@
+*, html{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #E2F4ED;
+	color: #0B1E17;
+	font-family: sans-serif;
+}
+
+button{
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	border: none;
+}
+
+.center{
+	text-align: center;
+}
+
+.top_heading{
+	margin-block: 25px;
+}
+
+.choose{
+	margin-block: 15px;
+	font-size: 1.25rem;
+}
+
+.choice_container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin-block: 50px
+}
+
+.choice{
+	font-size: 10rem;
+	border: 2px solid transparent;
+	border-radius: 7px;
+}
+
+.choice:hover{
+	border: 2px solid #0B1E17;
+}
+
+.choice:active, .choice:focus{
+	background-color: #0B1E17;
+}
+
+.start-btn{
+	display: block;
+	margin: 0 auto;
+	border: 2px solid #0B1E17;
+	font-size: 1.75rem;
+	padding: 7px 20px;
+	border-radius: 7px;
+	margin-block: 25px;
+	pointer: cursor;
+}
+
+.start-btn:active{
+	transform: translateY(4px);
+}
+
+.next-round{
+    display: block;
+    margin: 0 auto;
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+.red{
+    color: red;
+}
+
+
