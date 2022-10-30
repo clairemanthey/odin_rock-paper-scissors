@@ -21,5 +21,5 @@
 ### built with
 Built with HTML, CSS, and JS
 
-## What I learned
+### What I learned
 <p>I began putting all the markup in the HTML and then adding styles. Colors, background color, font size, and font weight were all provided by the design files. I began with the navigation bar and worked my way down the page. Adding the designs to the hero as well as the more information section and inspiring quote. Then ending with a call to action and footer with copyright information. Finishing by comparing the webpage to the design files, making any little tweaks to get as close as possible to the provided files.</p>
