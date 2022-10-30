@@ -1,4 +1,4 @@
-<h1>Rock, Paper, Scissors Game</h1>
+#Rock, Paper, Scissors Game<
 ## Table of contents
 
 - [Overview](#overview)
@@ -11,13 +11,13 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-#Overview
+#O#verview
 
-##Project
+###Project
 
-##screenshot
+###screenshot
 <img src="rock_paper_scissors.png" alt="rock, paper, scissors in a browser">
 
 
-#my process
-##built with
+##my process
+###built with
