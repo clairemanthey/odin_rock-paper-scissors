@@ -13,11 +13,11 @@
 
 ## Overview
 
-###Project
+### Project
 
-###screenshot
+### screenshot
 <img src="rock_paper_scissors.png" alt="rock, paper, scissors in a browser">
 
 
-##my process
-###built with
+## my process
+### built with
