@@ -1,4 +1,4 @@
-#Rock, Paper, Scissors Game<
+# Rock, Paper, Scissors Game<
 ## Table of contents
 
 - [Overview](#overview)
