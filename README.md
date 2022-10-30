@@ -1,4 +1,6 @@
 <h1>Rock, Paper, Scissors Game</h1>
+## Table of contents
+
 - [Overview](#overview)
   - [project](#project)
   - [Screenshot](#screenshot)
