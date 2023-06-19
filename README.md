@@ -1,25 +1,37 @@
 # Rock, Paper, Scissors Game
-## Table of contents
 
-- [Overview](#overview)
-  - [project](#project)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+## Table of Contents
+[Introduction](#Introduction)
 
-## Overview
+[Motivation](#Motivation)
 
-### Project
-<a href="https://www.theodinproject.com/lessons/foundations-rock-paper-scissors">Project: Rock, Paper, Scissors</a> from <a href="https://www.theodinproject.com/">The Odin Project</a>. The project was to create a web page from the provided designs. I used CSS custom properties and utility classes to efficiently apply styles to a single HTML file.
+[Screenshot](#Screenshot)
+
+[Built With](#built-with)
+
+[License](#License)
+
+[Acknowledgements](#Acknowledgements)
+
+## Introduction
+This project is part of the JavaScript Basics section from the [Odin Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) Foundations Course. Using HTML, CSS, and JavaScript to create a Rock, Paper, Scissors game. The first part of the project was to create the game in the console. Then after the JS was working to create a user interface.
+
+The user interface would be designed so the user can make a choice between rock, paper, and scissor. Then the round starts when the user clicks on the button “start game.” Then display if the user won, lost, or tied the game with the results such as “You lost, paper beats rock.” Then the user clicks “next round” to continue to play.
+
+
+## Motivation
+I began The Odin Project’s Foundations Course to review my knowledge of HTML, CSS, and JavaScript skills. This project brought together all those skills to make a familiar game.
+
 ### screenshot
 <img src="rock_paper_scissors.png" alt="rock, paper, scissors in a browser">
 
 
-## my process
-### built with
-Built with HTML, CSS, and JS
+## Built With
+- HTML
+- CSS
 
-### What I learned
-<p>I began putting all the markup in the HTML and then adding styles. Colors, background color, font size, and font weight were all provided by the design files. I began with the navigation bar and worked my way down the page. Adding the designs to the hero as well as the more information section and inspiring quote. Then ending with a call to action and footer with copyright information. Finishing by comparing the webpage to the design files, making any little tweaks to get as close as possible to the provided files.</p>
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Acknowledgements
+The [Odin Project](https://www.theodinproject.com/) for putting together the curriculum for the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)
